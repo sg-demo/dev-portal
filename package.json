@@ -241,7 +241,7 @@
 		"trim": "^0.0.3",
 		"trim-newlines": "^3.0.1",
 		"prismjs": "^1.30.0",
-		"axios": "^1.15.0"
+		"axios": "1.15.2"
 	},
 	"nextBundleAnalysis": {
 		"budget": null,
